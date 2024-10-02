@@ -1,8 +1,8 @@
 ## Data Preprocessing
 
 ### Handle Missing Values:
-- [ ] Identify columns with missing values.
-- [ ] Decide on a strategy to handle missing values (e.g., fill with median, mean, mode, or drop rows/columns).
+- [x] Identify columns with missing values.
+- [x] Decide on a strategy to handle missing values (e.g., fill with median, mean, mode, or drop rows/columns).
 
 ### Encode Categorical Data:
 - [ ] Identify categorical columns.
